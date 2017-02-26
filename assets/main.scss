@@ -15,3 +15,39 @@
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h1 {
+    font-size: 24px;
+
+    @include media-query($on-laptop) {
+      font-size: 22px;
+    }
+  }
+
+  h2 {
+    font-size: 20px;
+
+    @include media-query($on-laptop) {
+      font-size: 20px;
+    }
+  }
+
+  h3 {
+    font-size: 18px;
+
+    @include media-query($on-laptop) {
+      font-size: 18px;
+    }
+  }
+
+  h4 {
+    font-size: 16px;
+
+    @include media-query($on-laptop) {
+      font-size: 16px;
+    }
+  }
+}

@@ -8,7 +8,7 @@
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              a project by {{ site.author | escape }}
+            a project by <a href="https://twitter.com/{{ site.author_twitter_username | escape}}">@{{ site.author_twitter_username | escape }}</a>
             {% endif %}
           </li>
           {% if site.email %}

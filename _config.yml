@@ -26,6 +26,8 @@ github_username:  astroswarm
 
 google_analytics: UA-91895311-1
 
+timezone: America/New_York
+
 # Build settings
 markdown: kramdown
 theme: minima

@@ -36,3 +36,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Procfile
+  - vendor # See: https://github.com/jekyll/jekyll/issues/2938

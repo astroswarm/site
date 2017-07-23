@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "The AstroSwarm Platform"
 date: 2017-02-26 16:00:00 -0500
 ---
@@ -19,7 +20,7 @@ We are focusing on "savvy" astronomers first because the achievements that serve
 # From Fragmentation to Platform
 
 Ask ten astrophotographers to walk you through their workflow, and you may get ten different answers. The reason is that there's a great deal of fragmentation at both the hardware and software levels of astronomy. Telescope assemblies are generally built a la carte -- this optical tube, that camera, this mount, that guider. The software follows similarly -- this guide controller, that camera controller, this image processor, that goto planetarium. A person's setup and approach will differ depending on what features they want, what operating system they run, and what interface preferences they have.
-                                                       
+
 Consider this, and think back to what email was in the 1990s. To many people it was AOL; to others it was Outlook, or Lotus Notes, or Thunderbird, all achieving the same general goal but each in a different way. Then in 2004, along came GMail with some new opinions about how email should work -- use search instead of folders, archive instead of delete, make the web your primary interface. New technology (faster search, cheaper storage, empowered web browsers) made a better approach possible, and a fidelity to standards (POP3/IMAP/SMTP) allowed for its development without compromising its function. The result was a platform that forever improved (and became a model for) how all email would work.
 
 # AstroSwarm: A Platform for Easier Astronomy
@@ -29,7 +30,7 @@ AstroSwarm is born out of the idea that a similar leap is achievable for astrono
 1. A fully-integrated pipeline for aligning, guiding, acquiring sensor input, processing data, and publishing results. You won't have to run multiple operating systems or computers, or transfer files between machines, or launch and shutdown applications.
 1. Default configurations wherever possible, minimizing the number of choices that you have to make to perform a given task. You can override the defaults as needed.
 1. Tooling to preconfigure the platform for your home wifi network -- just turn the device on and it connects automatically -- no need to plug in a keyboard, mouse, or monitor to enter an SSID or password.
-1. Push-button software updates, so it's easy to get the latest features, bug fixes, and security updates. 
+1. Push-button software updates, so it's easy to get the latest features, bug fixes, and security updates.
 1. Adherence to open standards and importing/exporting throughout the pipeline, so you can take your work outside the platform or bring it in from elsewhere.
 
 We'll also be laying the groundwork to achieve the other goals mentioned in our first blog post. In particular, over time, the workflow will become centralized, fully web-based, and maintain the entire state of your work, so you can pick up wherever you left off, from wherever you are. You won't need to launch disparate applications, leave a home computer running, or bring anything with you to work with your data. There won't be any settings to remember, files to track, or changes to remember to save.

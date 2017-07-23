@@ -31,13 +31,7 @@ If these goals are reached, the amount of space under direct human observation s
 
 I have some ideas for achieving each of these goals and the larger mission, and I will lay them out here as a holistic plan in due time. I will begin with the first goal I mentioned, which provides utility to the existing astronomy community, and unlocks the door to the other goals on this list.
 
-By the end of February, I expect to:
-
-* Publish my vision for a software/hardware platform that will make it easier for savvy astronomers to use their own telescopes.
-* Publish a technical approach for building that platform, based on my own and others' prior work.
-* Identify existing tools we can leverage, so we don't have to build the entire thing from scratch.
-* Release an early (but not full-featured) version of the platform that anyone can build at home.
-* Release a set of primitive development tools focused on rapid iteration and deployment of the platform. The goal of this toolset is to make it as easy as possible for interested parties to improve the platform, test their changes, and send their contributions back to the larger community.
+I expect to have this in public beta by the end of September, 2017.
 
 # Get in Touch
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "The AstroSwarm Architecture"
 date: 2017-02-28 23:00:00 -0500
 ---
@@ -15,7 +16,7 @@ Below are brief explanations for our major design decisions.
 ## Mobile Computer
 
 A mobile computer has smaller physical size and lower power requirements than a laptop or desktop computer. This makes AstroSwarm especially portable and easy to use in the field.
- 
+
 We target a single mobile architecture rather than mobile hardware at large. This greatly reduces the number of system configurations we must support, as we have only one Linux flavor and one set of hardware for everything beneath the USB bus. This is especially important given [how fragmented](/2017/02/26/the-astroswarm-platform.html) the astronomy hardware landscape is.
 
 ## Containerization
@@ -23,7 +24,7 @@ We target a single mobile architecture rather than mobile hardware at large. Thi
 Every application runs inside its own container. This provides several benefits:
 
 1. We can add any application to our pipeline without worrying about file system or port collisions with other applications.
-1. Most application security flaws will compromise only the affected application and not the entire system. 
+1. Most application security flaws will compromise only the affected application and not the entire system.
 1. The platform is easier to debug because each application is isolated; the artifacts of one application won't affect the state of another.
 1. We can allocate and prioritize resources at an application level rather than having to do it at a process level.
 1. All applications may be upgraded independently of the larger system, simply by downloading the latest container image for that application.

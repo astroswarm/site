@@ -65,7 +65,7 @@ It's important that you be comfortable with new technology, and that you commit 
 
 Beta participants will receive perks, including:
 * Preferred pricing over a general production unit.
-* A satisfaction guarantee: if not satisfied at the end of the beta, you may return your Astrolab for a full refund.
+* A satisfaction guarantee: you may return your Astrolab for a full refund at the end of the Beta.
 * Public recognition on the AstroSwarm platform (coming later this year).
 * Free hardware upgrades to production-spec units (if such upgrades are found to be necessary).
 

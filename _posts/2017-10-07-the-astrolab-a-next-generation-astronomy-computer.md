@@ -31,7 +31,7 @@ The most important design consideration of the Astrolab is its internet connecti
 
 The Astrolab is the hardware controller that plugs into your telescope and connects to the internet. It is entirely open source (both hardware and software) and permissively licensed (MIT). A pre-built and fully supported commercial version will also be available.
 
-AstroSwarm is the web service that all the Astrolabs communicate with, contribute to, and learn from. For the duration of the beta, AstroSwarm will be free. At some point, AstroSwarm to diverge into free and paid versions. The goal of AstroSwarm is to make space study as accessible and affordable as possible, but it must generate revenue in order to finance the needs of that ambition (support, hosting, development, hardware testing, and eventually: dark sky real estate). AstroSwarm will always have a free feature set available to Astrolab owners and to the wider astronomy community.
+AstroSwarm is the web service that all the Astrolabs communicate with, contribute to, and learn from. For the duration of the beta, AstroSwarm will be free. At some point, AstroSwarm will diverge into free and paid versions. The goal of AstroSwarm is to make space study as accessible and affordable as possible, but it must generate revenue in order to finance the needs of that ambition (support, hosting, development, hardware testing, and eventually: dark sky real estate). AstroSwarm will always have a free feature set available to Astrolab owners and to the wider astronomy community.
 
 ## What does an Astrolab look like?
 

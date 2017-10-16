@@ -4,7 +4,7 @@ title: "Making Space Easy to Study"
 date: 2017-02-12 09:00:00 -0500
 ---
 
-In the last year, I've spent hundreds of hours working on astronomy and astrophotography projects. It's been fun and edifying, and I've been lucky to find online communities like [Cloudy Nights](https://cloudynights.com), whose members eagerly help amateurs like myself get started. I've been even luckier to benefit from a litany of inexpensive (in some cases, free) tools that others have built and made available, enabling me to use my telescope much more effectively and efficiently than if I had to do everything by hand or write all my own software from scratch.
+In the last year, I've spent hundreds of hours working on astronomy and astrophotography projects. It's been fun and edifying, and I've been lucky to benefit from a litany of inexpensive (sometimes free) tools that others have built and made available, enabling me to use my telescope much more effectively and efficiently than if I had to do everything by hand or write all my own software from scratch.
 
 And yet, in spite of these resources, my abilities as an astronomer are largely a function not of what is available to me, but of my prior experiences. If not for having an engineering background, if not for having preexisting interests in mathematics and physics, if not for having disposable income to throw toward the skies, and if not for having the time between work, sleep, and being a husband to wade through hundreds of pages of advice on internet forums -- if not for all of these things, I would still be looking at the stars with little more than my naked eyes.
 
@@ -20,7 +20,7 @@ Toward this ends, I've begun a project to make it easier for anyone to study spa
 * Make it easy for anyone to use their own telescope.
 * Make it easy for anyone to use someone else's telescope.
 * Make remote controlling of telescopes easy and affordable, so that any telescope can be placed where it will capture the best data, rather than where a human can most easily operate it.
-* Assemble a global network of telescopes, massively increasing equipment inventory, and decoupling researchers' viewing conditions from their physical location.
+* Assemble a global network of telescopes, massively increasing equipment inventory, and decoupling researchers' viewing conditions from their physical locations.
 * Unleash the power of basic AI and machine learning for celestial studies, removing human bottlenecks of control, data entry, and analysis.
 * Give university astronomy departments and other research institutions more scope time than they have today for less money than they spend today.
 * Use more sophisticated AI and machine learning with the telescope network to autonomously hypothesize, validate and record celestial phenomena all around us.

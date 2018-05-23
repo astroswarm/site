@@ -66,7 +66,7 @@ It's important that you be comfortable with new technology, and that you commit 
 Beta participants will receive perks, including:
 * Preferred pricing over a general production unit.
 * A satisfaction guarantee: you may return your Astrolab for a full refund at the end of the Beta.
-* Public recognition on the AstroSwarm platform (coming later this year).
+* Public recognition on the AstroSwarm platform.
 * Free hardware upgrades to production-spec units (if such upgrades are found to be necessary).
 
 If you're not comfortable with new technology, or if experiencing a bug will annoy you, the beta program is not for you. That's okay -- we'd love to have you on board after the spacedust settles!

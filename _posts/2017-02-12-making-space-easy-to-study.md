@@ -8,13 +8,11 @@ In the last year, I've spent hundreds of hours working on astronomy and astropho
 
 And yet, in spite of these resources, my abilities as an astronomer are largely a function not of what is available to me, but of my prior experiences. If not for having an engineering background, if not for having preexisting interests in mathematics and physics, if not for having disposable income to throw toward the skies, and if not for having the time between work, sleep, and being a husband to wade through hundreds of pages of advice on internet forums -- if not for all of these things, I would still be looking at the stars with little more than my naked eyes.
 
-This sort of happenstance should not be the difference between who is able to observe the wonders of space and contribute back to scientific imperatives, and who isn't.
-
 # Making Space Easy to Study
 
 I'd like to make space study less a function of one's background, and more a function of one's interest. In a world where smooth glass is mass produced, where electronics drop in price every day, and where "[software is eating the world](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)," there's no good reason for observing the skies to be such an elite activity.
 
-Toward this ends, I've begun a project to make it easier for anyone to study space. If this can be achieved, I think it will lead to more people entering and contributing to the sciences, and it will accelerate the pace at which we learn about the cosmos. Some important milestones toward this mission are:
+I've begun a project to make it easier for anyone to study space. If this can be achieved, I think it will lead to more people entering and contributing to the sciences, and it will accelerate the pace at which we learn about the cosmos. Some important milestones toward this mission are:
 
 * Make it easier for savvy astronomers to use their own telescopes, so they use them more often.
 * Make it easy for anyone to use their own telescope.
@@ -30,8 +28,6 @@ If these goals are reached, the amount of space under direct human observation s
 # Coming Soon
 
 I have some ideas for achieving each of these goals and the larger mission, and I will lay them out here as a holistic plan in due time. I will begin with the first goal I mentioned, which provides utility to the existing astronomy community, and unlocks the door to the other goals on this list.
-
-I expect to have this in public beta by the end of September, 2017.
 
 # Get in Touch
 
